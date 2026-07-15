@@ -1,0 +1,13 @@
+Reflexión.
+Saber utilizar la terminal para navegar y organizar archivos es una de las habilidades 
+fundamentales para cualquier desarrollador. La interfaz de línea de comandos ofrece una 
+velocidad y eficiencia que las interfaces gráficas tradicionales no pueden igualar. 
+A través de ella, podemos automatizar tareas repetitivas, administrar servidores remotos 
+y configurar entornos de desarrollo complejos rápidamente. Además, la estructura interna 
+de la mayoría de los proyectos modernos de software depende directamente del orden en los 
+directorios. Navegar con fluidez mediante comandos nos permite comprender de forma inmediata 
+cómo se relacionan los archivos de nuestro código. Esta destreza también es indispensable 
+para integrar de manera natural herramientas de control de versiones como Git y GitHub.
+Un espacio de trabajo desordenado incrementa la posibilidad de cometer errores críticos y 
+perder información valiosa de producción. Por el contrario, un control preciso de la ubicación 
+de los archivos mejora exponencialmente la colaboración y el trabajo en equipo.
